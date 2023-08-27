@@ -84,9 +84,9 @@ function generateHistoryHTML() {
   </head>
   <body>
     <h1>History</h1>
-    <ul>
+    <ol>
       ${historyList}
-    </ul>
+    </ol>
   </body>
   </html>
   `;
