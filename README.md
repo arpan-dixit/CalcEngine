@@ -43,8 +43,14 @@ CalcEngine is a Node.js and Express.js-based web application that allows users t
 - Calculate (5 - 3) + 8: `/5/minus/3/plus/8`
 - View calculation history: `/history`
 
-## Technologies Used
+### Technologies Used
 
 - Node.js
 - Express.js
 - HTML/CSS
+
+  ### Live Application
+  - Link: https://calcengine.glitch.me/
+  - Access the sample URLs to perform calculations or view the history:
+   - [https://calcengine.glitch.me/history](https://calcengine.glitch.me/history)
+   - [https://calcengine.glitch.me/5/plus/5](https://calcengine.glitch.me/5/plus/5)
